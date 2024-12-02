@@ -26,5 +26,5 @@ function gradeStudentMarks() {
      alert(`The grade for marks ${marks} is: ${grade}`);  // didplays the grade
 }
 
- gradeMarks();  //invokes the function
+ gradeStudentMarks();  //invokes the function
 
