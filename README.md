@@ -7,7 +7,8 @@ B: Marks between 60 and 79
 C: Marks between 50 and 59
 D: Marks between 40 and 49
 E: Marks below 40
-File: gradeGenerator.js - Implements the function. This code gives an error"Prompt not defined" because Node.js: prompt() is not available natively because Node.js is designed for server-side programming and does not include browser APIs.
+File: gradeGenerator.js - Implements the function. This code gives an error"Prompt not defined" because prompt() is not available natively because 
+Node.js is designed for server-side programming and does not include browser APIs.
 
 2. Speed Detector
 Description:
