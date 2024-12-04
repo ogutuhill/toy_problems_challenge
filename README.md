@@ -1,4 +1,4 @@
-1. Student Grade Generator
+#1.Student Grade Generator
 Description:
 A function that takes student marks as input and assigns a grade based on these criteria:
 
@@ -9,7 +9,7 @@ D: Marks between 40 and 49
 E: Marks below 40
 File: gradeGenerator.js - Implements the function. 
 
-2. Speed Detector
+##2.Speed Detector
 Description:
 A Javascript code that evaluates car speed and provides feedback:
 
@@ -18,7 +18,7 @@ Speeds above 70: Assigns 1 demerit point for every 5 km/s over the limit and pri
 More than 12 points: Prints "License suspended."
 File: speedDetector.js - Implements the program.
 
-3. Net Salary Calculator
+###3.Net Salary Calculator
 Description:
 A code to compute an individual’s net salary based on the following:
 
